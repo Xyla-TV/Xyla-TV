@@ -10,5 +10,7 @@
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,unity,visualstudio,html,css,php)](https://skillicons.dev" alt="Skills" />
+  <a href="https://skillicons.dev/">
+    <img src="https://skillicons.dev/icons?i=cs,html,css,php,unity,visualstudio,git" alt="Skills" />
+  </a>
 </div>
