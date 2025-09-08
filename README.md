@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
+  <h1 align="center">
+    Hi, I'm Alyx
+  </h1>
+  <h4 align="center">
+    I'm a French developer & co-founder of <a href="https://github.com/Source-Macchiato">@Source-Macchiato</a>, an indie game studio previously working on Wii U remakes and now working on an indie game.
+  </h4>
+</div>
 
-<!--
-**Xyla-TV/Xyla-TV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,unity,visualstudio,html,css,php)](https://skillicons.dev" alt="Skills" />
+</div>
