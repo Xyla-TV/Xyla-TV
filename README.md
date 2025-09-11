@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Alyx</h1>
-  <p>I'm a French developer & co-founder of <a href="https://github.com/Source-Macchiato">@Source-Macchiato</a>, an indie game studio previously working on Wii U remakes and now working on an indie game.</p>
+  <p>I'm a French developer & co-founder of <a href="https://github.com/Source-Macchiato">@Source-Macchiato</a>, an indie game studio previously working on Wii U remakes and now working on an indie game named "A show she never watched.".</p>
 </div>
 
 <div align="center">
@@ -10,5 +10,5 @@
 </div>
 
 <div align="center">
-  <p><i>As you can see on pinned projects some scripts on FNaF 1 and 2 are badly coded, it's due of source code we used from 3DS remakes. However our own scripts are great and we pay attention to make clean, optimized and easily maintainable systems.</i></p>
+  <p><i>As you can see on pinned projects some scripts on FNaF 1 and 2 are badly coded, it's due of source codes we used from 3DS remakes. However our own scripts are great and we pay attention to make clean, optimized and easily maintainable systems.</i></p>
 </div>
