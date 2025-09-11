@@ -7,10 +7,12 @@
   </h4>
 </div>
 
----
-
 <div align="center">
   <a href="https://skillicons.dev/">
     <img src="https://skillicons.dev/icons?i=cs,html,css,php,unity,visualstudio,git" alt="Skills" />
   </a>
+</div>
+
+<div align="center">
+  <p><i>As you can see on pinned projects some scripts on FNaF 1 and 2 are badly coded, it's due of source code we used from 3DS remakes. However our own scripts are great and we pay attention to make clean systems, optimized and easily maintainable.</i></p>
 </div>
