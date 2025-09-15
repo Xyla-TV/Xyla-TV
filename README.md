@@ -10,5 +10,23 @@
 </div>
 
 <div align="center">
+  <h3>My published projects</h3>
+</div>
+
+<div align="center">
+  <a href="https://source-macchiato.itch.io/fnaf-wiiu-edition">
+    <img src="/Assets/FNaF-WiiU.png" />
+  </a>
+
+  <a href="https://the-latte-macchiato.itch.io/fnaf2-wiiu-edition">
+    <img src="/Assets/FNaF2-WiiU.png" />
+  </a>
+
+  <a href="https://source-macchiato.itch.io/milk-collection-wiiu-edition">
+    <img src="/Assets/MOBM-WiiU.png" />
+  </a>
+</div>
+
+<div align="center">
   <p><i>As you can see on pinned projects some scripts on FNaF 1 and 2 are badly coded, it's due of source codes we used from 3DS remakes. However our own scripts are great and we pay attention to make clean, optimized and easily maintainable systems.</i></p>
 </div>
