@@ -25,6 +25,10 @@
   <a href="https://source-macchiato.itch.io/milk-collection-wiiu-edition">
     <img src="/Assets/MOBM-WiiU.png" width="200" />
   </a>
+
+  <a href="https://source-macchiato.itch.io/step-wiiu-edition">
+    <img src="/Assets/STEP-WiiU.png" width="200" />
+  </a>
 </div>
 
 <div align="center">
