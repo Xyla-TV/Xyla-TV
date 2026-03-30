@@ -5,6 +5,18 @@
 
 <div align="center">
   <a href="https://skillicons.dev/">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,php,unity,unreal,gamemakerstudio,visualstudio,git" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,php" alt="Skills" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://skillicons.dev/">
+    <img src="https://skillicons.dev/icons?i=unity,unreal,gamemakerstudio" alt="Skills" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://skillicons.dev/">
+    <img src="https://skillicons.dev/icons?i=visualstudio,git" alt="Skills" />
   </a>
 </div>
