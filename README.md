@@ -26,11 +26,11 @@
 </div>
 
 <div align="center">
-  <a href="https://sourcemacchiato.com/games">
+  <a href="https://sourcemacchiato.com/games" target="_blank">
     <img src="/Assets/UnwatchedShow.png" width="200" />
   </a>
 
-  <a href="https://sourcemacchiato.com/ports">
+  <a href="https://sourcemacchiato.com/ports" target="_blank">
     <img src="/Assets/MetalGarden.png" width="200" />
   </a>
 </div>
