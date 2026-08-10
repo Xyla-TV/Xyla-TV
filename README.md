@@ -20,3 +20,19 @@
     <img src="https://skillicons.dev/icons?i=visualstudio,git" alt="Skills" />
   </a>
 </div>
+
+<div align="center">
+  <h3>Professional projects</h3>
+</div>
+
+<div align="center">
+  <a href="https://sourcemacchiato.com/games">
+    <img src="/Assets/UnwatchedShow.png" width="200" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://sourcemacchiato.com/ports">
+    <img src="/Assets/MetalGarden.png" width="200" />
+  </a>
+</div>
