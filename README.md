@@ -29,9 +29,7 @@
   <a href="https://sourcemacchiato.com/games">
     <img src="/Assets/UnwatchedShow.png" width="200" />
   </a>
-</div>
 
-<div align="center">
   <a href="https://sourcemacchiato.com/ports">
     <img src="/Assets/MetalGarden.png" width="200" />
   </a>
